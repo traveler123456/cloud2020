@@ -1,8 +1,10 @@
 package com.springcloud.dao;
 
 import com.springcloud.entities.Payment;
+import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Param;
 
+@Mapper
 public interface PaymentDao {
     
     public int add(Payment payment);
