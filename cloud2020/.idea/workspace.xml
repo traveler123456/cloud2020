@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e9d4e2e6-e156-4d52-9c17-6fe757037bf4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z7OqUPUpAvOcZfNWpJ6dNl0Xtd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cloud-privoder-payment8001/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.087796316" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\eclipse-workspace\cloud2020\cloud-privoder-payment8001\src\main\resources" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9d4e2e6-e156-4d52-9c17-6fe757037bf4" name="Default Changelist" comment="" />
+      <created>1584186857101</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584186857101</updated>
+      <workItem from="1584186861976" duration="2153000" />
+      <workItem from="1584232091698" duration="5734000" />
+      <workItem from="1584326797935" duration="1340000" />
+      <workItem from="1584329154451" duration="1706000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="181" key="#Project_Structure" timestamp="1584242284909">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="181" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1584242284909" />
+    <state x="617" y="265" key="SettingsEditor" timestamp="1584329233794">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="617" y="265" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584329233794" />
+    <state x="661" y="444" key="com.intellij.ide.util.TipDialog" timestamp="1584329153964">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="444" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584329153964" />
+    <state x="848" y="374" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1584245974143">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="848" y="374" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584245974143" />
+    <state x="1061" y="185" width="626" height="735" key="find.popup" timestamp="1584187190149">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1061" y="185" width="626" height="735" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1584187190149" />
+    <state x="334" y="224" key="new project wizard" timestamp="1584232168257">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="224" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1584232168257" />
+  </component>
+</project>
