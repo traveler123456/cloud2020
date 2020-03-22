@@ -1,10 +1,11 @@
-package com.springcloud.entities;
+package com.sprincloud.entities;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
 import java.io.Serializable;
+
 @Data
 @AllArgsConstructor
 @NoArgsConstructor

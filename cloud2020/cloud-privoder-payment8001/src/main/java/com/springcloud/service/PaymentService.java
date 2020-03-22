@@ -1,7 +1,8 @@
 package com.springcloud.service;
 
-import com.springcloud.entities.CommonResult;
-import com.springcloud.entities.Payment;
+
+import com.sprincloud.entities.CommonResult;
+import com.sprincloud.entities.Payment;
 import org.apache.ibatis.annotations.Param;
 
 public interface PaymentService {
