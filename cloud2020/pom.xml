@@ -19,6 +19,9 @@
         <module>cloud-alibaba-consumer-nacos-order83</module>
         <module>cloud-alibaba-provider-payment9002</module>
         <module>cloud-alibaba-nacos-config</module>
+        <module>seata_order_service</module>
+        <module>seata-storage-service</module>
+        <module>seata-account_service</module>
     </modules>
     <packaging>pom</packaging>
     <properties>
