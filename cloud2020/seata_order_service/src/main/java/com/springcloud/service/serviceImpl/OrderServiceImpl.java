@@ -23,16 +23,15 @@ public class OrderServiceImpl implements OrderService {
     @Resource
     private AccountService accountService;
 
-    private Long id=16L;
-
     @Override
-    //@GlobalTransactional(name = "seata_test_tx_group",rollbackFor = Exception.class)
+    @GlobalTransactional(name = "seata_test_tx_group",rollbackFor = Exception.class)
     public void create(Order order) {
-        order.setId(id++);
         /*
         创建订单
          */
+        order.setId(UUID.randomUUID().toString().replaceAll("-",""));
         orderDao.creatOrder(order);
+
         /*
         商品扣减
          */

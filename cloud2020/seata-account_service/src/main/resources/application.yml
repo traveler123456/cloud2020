@@ -21,6 +21,8 @@ spring:
 feign:
   hystrix:
     enabled: true
+  httpclient:
+    connection-timeout: 5000
 
 logging:
   level:
